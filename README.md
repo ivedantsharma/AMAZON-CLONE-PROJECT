@@ -2,13 +2,6 @@
 
 This project is a simple frontend clone of the Amazon website, created using HTML, CSS, and Vanilla JavaScript. It mimics the layout and basic functionalities of the Amazon site for large screens like laptops and PCs.
 
-## Technologies Used
-
-- HTML5
-- CSS3
-- CSS Animations
-- JavaScript
-
 ## Features
 
 - Replica of Amazon's homepage layout.
@@ -16,3 +9,11 @@ This project is a simple frontend clone of the Amazon website, created using HTM
 - Display of various product categories.
 - Responsive design for larger screens.
 - Hover effects and basic animations to enhance user experience.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- CSS Animations
+- JavaScript
+- 
