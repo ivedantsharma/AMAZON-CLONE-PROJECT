@@ -16,4 +16,3 @@ This project is a simple frontend clone of the Amazon website, created using HTM
 - CSS3
 - CSS Animations
 - JavaScript
-- 
